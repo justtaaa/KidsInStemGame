@@ -1,0 +1,1 @@
+user = misha; password = 5937; exp = 30; level = 12; materials =water,air,earth,fire,dust,gunpowder,steam ; items =handbook,Computer,Train,Camera

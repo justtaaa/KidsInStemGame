@@ -1,0 +1,31 @@
+Handbook
+This is ur handbook where you can find interesting facts
+
+
+Level Camera
+How does camera work?
+The very first thing that has to happen when working a camera is that light has to pass through the lens. The lens is a glass plate that covers the opening to the camera's body. The lens directs from an object to the film when the shutter opens.
+When you push the button on a camera, it opens a shutter, which is a lid that protects the film. The shutter is like your eyelids, and when you open them, then the light comes in. On a camera, the shutter opens and closes really fast. It only wants to let enough light in to capture the image and then close before it gets too much light. The film is stored in the camera's body and has special chemicals on it that cause the film to change colors when light touches it.
+What's interesting is the image on the film is the opposite of what you see. For example, if you were to take a picture of a dalmatian dog, then the spots would be white and the background fur would be black. This is called a negative film. The negative film is the strip of plastic that captures the image through a chemical process in opposite colors. Once the film is processed in other chemicals, then the colors reverse and the image appears as it did when the button on the camera was pushed.
+Try to solve this exercise!
+Jack takes a photograph. His camera gives him the correct exposure at ISO 400 and a shutter speed of 1/200th of a second. If Jack wants to change his shutter speed to 1/100th second, what ISO value does he need?
+
+Level Train
+What's an Electric Train?
+Have you ever played with a toy train? They're fun to watch go around a train track and are powered by electricity through the use of a plug or batteries.
+This lesson will explore large electric trains that are used to transport people or materials around a city, to different states, and to different countries.
+Electric trains are a type of locomotive that were invented in the 1800s and have an electricity source that gives them the power to move on special train tracks.
+Electric trains are important because they provide transportation back and forth to many different locations without the use of coal. Large cities use electric trains in subway systems that usually travel in underground tunnels to different parts of the city. This allows people to have a quick way to get to work and go other places without having to drive and deal with traffic.
+Electric trains have also replaced older steam trains, which operated using coal. Coal causes lots of smoke and air pollution. This pollution is bad for our lungs and for the environment. Electric trains were created to reduce air pollution, which is a healthier choice for our environment and for us!
+Constructing the electric tracks that electric trains use is more expensive than building regular tracks used by other types of trains. However, once the electric tracks and electric trains are built, they cost less to operate than other trains that require fuel. This makes them a good option to save money in the long run.
+Try to solve this exercise!
+The train traveled 210 km in 3 hours. What is the speed of the train? Use this formula S = t*v
+
+Level Computer
+
+A computer is a device for working with information. The information can be numbers, words, pictures, movies, or sounds. Computer information is also called data. Computers can process huge amounts of data very quickly. They also store and display data.
+Most computers are electronic devices. This means that they work with electricity. All computer data is carried in tiny flows of electricity called electric currents. The microprocessor contains thousands or millions of tiny electronic parts called transistors. The transistors act as switches. They control how the electric currents flow.
+Computers use these electric currents to represent the numbers 0 and 1. Computers use only these two numbers because transistors, like light switches, have only two states—they are either on or off. A transistor that is “on” represents one of the numbers. A transistor that is “off” represents the other. Computers use strings of 0s and 1s to stand for letters, sounds, and all of the other data they handle. For example, a computer stores the word dog as three numbers: 01100100 (d), 01101111 (o), and 01100111 (g).
+Computers can understand only these patterns of 0s and 1s. All of the instructions that a computer follows have to be in this form. But people find it hard to work with long number patterns. So the people who write computer software, called computer programmers, have their own special languages. These include programming languages called BASIC, Java, and C++. The computer turns programming languages into the number patterns that it can understand.
+Programmers use these languages to write instructions for the computer. The instructions tell the computer how to process data. The instructions consist of algorithms, which are a series of steps that are used to solve a problem.
+
